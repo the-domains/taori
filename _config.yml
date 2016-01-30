@@ -1,29 +1,41 @@
-name: TAORi
-favicon: null
-layout_spectrum: 0.15746926609426737
-typography_spectrum: 0.14275
 title: For the good life
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 1
+  brandStrength: 0.9802867
+  lightness: 0
   brandColors:
     - '#191a1c'
     - '#ffffff'
     - '#cdcdce'
     - '#7c7d7e'
     - '#60af07'
-  brandStrength: 0.8409116165712476
-  lightness: 0.757093150401488
-  saturation: 0.35871996148489416
-  rhythmicContrast: 0.08105342625640333
-purpose: []
+  rhythmicContrast: 0.08105343
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: TAORi
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.14275
+layout_spectrum: 0.1574692660942674

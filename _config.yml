@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: TAORi
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.14275
-layout_spectrum: 0.1574692660942674
+layout_spectrum: 1
